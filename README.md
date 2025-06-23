@@ -5,6 +5,9 @@ Ideal para iniciantes em desenvolvimento web.
 
 ---
 
+
+![Ilustração](https://github.com/Cati94/HTML_Exercises_Pratica_Estruturacao_Web/blob/main/html.png)
+
 ## 📚 Conceitos trabalhados
 
 * Estrutura base de documentos HTML (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
